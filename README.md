@@ -1,2 +1,0 @@
-# shopsy
-change bulid
